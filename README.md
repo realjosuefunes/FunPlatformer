@@ -7,4 +7,7 @@ The main selling points of this game is the challenge it gives players and the m
 
 ## attribution
 Start screen and main game background images by "OMORI" by Omocat
+
 Monster image from game "OMORI" by Omocat
+
+Music made by James Primate from the game "Rain World"
